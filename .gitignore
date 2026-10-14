@@ -1,0 +1,10 @@
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Customer data and locally generated databases are intentionally not published.
+customer_churn_data_raw.xlsx
+exported_churn_data.csv
+*.db
+*.sqlite
